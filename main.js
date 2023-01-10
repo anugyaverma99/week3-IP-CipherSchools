@@ -10,5 +10,5 @@ const navSlide = () => {
   const navlinks = document.querySelectorAll(".nav-links");
   burger.addEventListener("click",() =>{
   //Toggle Nav
-  nav.classList.toggle("nav-active")});
-  };
+  nav.classList.toggle("nav-active");};);
+};
